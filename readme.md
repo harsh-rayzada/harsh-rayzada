@@ -19,3 +19,5 @@
 <h3>My Github Profile related stats</h3>
 
 ![harsh-rayzada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-rayzada&theme=vue-dark&hide_border=true)
+![harsh-rayzada's Stats](https://github-readme-stats.vercel.app/api?username=harsh-rayzada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![harsh-rayzada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rayzada&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
