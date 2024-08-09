@@ -20,9 +20,3 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-rayzada&theme=vue-dark&hide_border=true"></img></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=harsh-rayzada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"></img></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rayzada&theme=vue-dark&show_icons=true&hide_border=true&layout=donut-vertical"></img></p>
-
-<style>
-    p{
-        margin: 0
-    }
-</style>
