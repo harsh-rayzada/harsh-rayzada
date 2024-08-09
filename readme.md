@@ -3,18 +3,18 @@
 
 <p>I am from India 🇮🇳 and I am currently based in Sweden 🇸🇪</p>
 
-<h3>We can connect and know about each other on <a href="https://www.linkedin.com/in/harsh-rayzada-b068b1b0/">LinkedIn</a></h3>
+<p>We can connect and know about each other on <a href="https://www.linkedin.com/in/harsh-rayzada-b068b1b0/">LinkedIn</a></p>
 <p>or</p>
-<h3>You can mail me <a href="mailto:harsh.rayzada@gmail.com">here</a></h3>
+<p>You can mail me <a href="mailto:harsh.rayzada@gmail.com">here</a></p>
 
 <h3>My Tech Stack</h3>
-<h4>Frontend - HTML, CSS, Less, SASS, Javascript, Typescript, Angular, Cordova, React, React Native</h4>
-<h4>Backend - NodeJS, ExpressJS, SailsJS, Go, Python(Flask), Socket.IO</h4>
-<h4>Databases - MySQL, PostgreSQL, MSSQL, MongoDB, Elastic Search, Redis</h4>
-<h4>Testing - Jest, Chai, Mocha</h4>
-<h4>CI/CD - Github Workflows</h4>
-<h4>Infrastructure - AWS, GCP, Docker, Terraform, Linux</h4>
-<h4>Others - Nginx, Apache Kafka, Postman, MQTT, Node-red, Open API Spec</h4>
+<p>Frontend - HTML, CSS, Less, SASS, Javascript, Typescript, Angular, Cordova, React, React Native</p>
+<p>Backend - NodeJS, ExpressJS, SailsJS, Go, Python(Flask), Socket.IO</p>
+<p>Databases - MySQL, PostgreSQL, MSSQL, MongoDB, Elastic Search, Redis</p>
+<p>Testing - Jest, Chai, Mocha</p>
+<p>CI/CD - Github Workflows</p>
+<p>Infrastructure - AWS, GCP, Docker, Terraform, Linux</p>
+<p>Others - Nginx, Apache Kafka, Postman, MQTT, Node-red, Open API Spec</p>
 
 <h3>My Github Profile related stats</h3>
 
